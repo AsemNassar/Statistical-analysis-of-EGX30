@@ -60,10 +60,3 @@ The project includes the following key MATLAB implementations:
 
 ## Results
 - The project provides key insights into the historical and future performance of the EGX30 index, including predictions for the next three years. The visualizations offer clear representations of statistical measures and forecasted trends.
-
-## Contributors
-- Asem Wael Nassar
-- Yahya Mahrous Mohammed
-- Mazen Hossam Eldin Ibrahim
-- Omar Abed Ahmed
-- Diaa Eldin Essam
